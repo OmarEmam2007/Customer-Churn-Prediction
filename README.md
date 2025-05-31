@@ -3,10 +3,15 @@
 A brief description of what this project does and who it's for.
 
 ## 📌 Features
+Analyze customer data to identify factors contributing to churn.
 
-- Feature 1
-- Feature 2
-- Feature 3
+Use demographic and usage behavior data to understand customer patterns.
+
+Extract key features such as contract type, subscription duration, services used, and billing amounts.
+
+Build predictive machine learning models to forecast customers likely to churn.
+
+Visualize model performance with plots like ROC Curve and feature importance bar charts.
 
 ## 🧠 Technologies Used
 
